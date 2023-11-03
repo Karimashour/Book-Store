@@ -20,7 +20,7 @@ https://book-store-website.surge.sh/
 
 1-app contain 8 different pages and user can navigate between them by routing of navbar <br/>
 2-this app is single page application (SPA) where there is no relod and refresh to the browser in page <br/>
-3-in the homepage the user can see the header component that consist of 3 small comonents top,middle and footer.<br/>
+3-in the homepage the user can see the header component that consist of 3 small components: top,middle and footer.<br/>
 4-in the homepage the user can see the beatiful slider of images. <br/>
 5-in the homepage there is services component .<br/>
 6-in the homepage the user can show and see yhe different books depending on most gifted and best seller , finally most wished<br/>

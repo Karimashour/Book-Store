@@ -32,6 +32,9 @@ https://book-store-website.surge.sh/
 12-login page<br/>
 13-cart page.<br/>
 14-book page<br/>
+15-user can add any number of books and also quantity then see it notifications in cart .
+16-user can delete any number of books with any quantity then see it notifications in cart .
+17-user can select quantity of books with total prices.
 
 In the project directory, you can run:
 
